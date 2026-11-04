@@ -1,12 +1,18 @@
-# 📚🎲 ReadRoll
+<p align="center">
+  <img src="https://readroll.xyz/assets/logo.svg" alt="ReadRoll logo" width="120">
+</p>
 
-**Your books and board games, all in one place.**
+<h1 align="center">ReadRoll</h1>
+
+<p align="center"><strong>Your books and board games, all in one place.</strong></p>
 
 ReadRoll helps you keep track of your collection of books and board games. You can see what you own, plan what you want next and keep everything organized without a spreadsheet.
 
+🌐 **[readroll.xyz](https://readroll.xyz)**
+
 ---
 
-## ✨ What you can do with ReadRoll
+## What ReadRoll brings you
 
 ### 📖 Track your books and board games
 Add your books and board games and keep track of each one: what you own, what you're reading or playing, and what's on your list.
@@ -24,7 +30,7 @@ Add your own tags so you can sort and find items quickly.
 Point your phone or computer camera at a book's barcode. ReadRoll finds the book and fills in its details for you. You just check them and save.
 
 ### 🌍 In your language
-Use ReadRoll in the language you prefer.
+Use ReadRoll in the language you prefer: English or French.
 
 ---
 
