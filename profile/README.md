@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readroll.xyz/assets/logo.svg" alt="ReadRoll logo" width="120">
+  <img src="./readroll.svg" alt="ReadRoll logo" width="120">
 </p>
 
 <h1 align="center">ReadRoll</h1>
