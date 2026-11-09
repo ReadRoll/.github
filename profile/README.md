@@ -4,9 +4,9 @@
 
 <h1 align="center">ReadRoll</h1>
 
-<p align="center"><strong>Your books and board games, all in one place.</strong></p>
+<p align="center"><strong>Read it. Play it. Track it. For readers and players.</strong></p>
 
-ReadRoll helps you keep track of your collection of books and board games. You can see what you own, plan what you want next and keep everything organized without a spreadsheet.
+ReadRoll keeps your books and board games organized. Know what’s on your shelves, plan your next favorite, and say goodbye to spreadsheets.
 
 🌐 **[readroll.xyz](https://readroll.xyz)**
 
@@ -14,23 +14,20 @@ ReadRoll helps you keep track of your collection of books and board games. You c
 
 ## What ReadRoll brings you
 
-### 📖 Track your books and board games
-Add your books and board games and keep track of each one: what you own, what you're reading or playing, and what's on your list.
+### 📖 Track your items
+Manage your books and board games and always keep a track of them.
 
 ### ⭐ Build your wishlist
-Keep the books and games you want in one list, so you don't forget them.
+Keep the books and games you want in one list, so you never miss one
 
 ### 🗂️ Organize your way
-Group items into collections that make sense to you, like "Summer reads", "Family game night" or "Sci-fi favorites". One item can be in as many collections as you like.
+Add items to your collection and tag them to keep everything organized.
 
-### 🏷️ Tag everything
-Add your own tags so you can sort and find items quickly.
+### 📷 Add a book in seconds
+Scan the barcode, check the details, save. That’s it.
 
-### 📷 Scan to add
-Point your phone or computer camera at a book's barcode. ReadRoll finds the book and fills in its details for you. You just check them and save.
-
-### 🌍 In your language
-Use ReadRoll in the language you prefer: English or French.
+### 🌍 Speaks your language
+Available in French and English. Switch anytime.
 
 ---
 
